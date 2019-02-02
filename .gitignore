@@ -1,3 +1,10 @@
+secrets.py
+chuck_noia.log
+
+*.pyc
+venv
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
