@@ -14,6 +14,7 @@ def hello_world():
 @app.route('/tweet')
 def tweet():
     create_tweet()
+    return "tweet!"
 
 
 if __name__ == '__main__':
